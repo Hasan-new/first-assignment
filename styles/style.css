@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.banner-image {
+    width: 100%;
+    align-items: center;
+}
+
+.text-block {
+    position: absolute;
+    text-align: right;
+    bottom: 200px;
+    right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.btn-primary{
+    background-color: tomato;
+    color: aliceblue;
+}
+.about-me{
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+    padding: 20px;
+}
