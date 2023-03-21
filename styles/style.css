@@ -43,6 +43,30 @@
     justify-content: space-around;
     
 }
-/* .plan-icon{
-    margin: 20px;
-} */
+.positive-mindnet{
+    align-items: center;
+    margin: 0 200px;
+    margin-bottom: 100px;
+    /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); */
+    /* background-image: linear-gradient(yellow, brown) */
+    /* background-image: url(../images/watch.png); */
+}
+
+/* footer  */
+.footer-section{
+    background: #151414;
+    color: white;
+    display: flex;
+    gap: 100px;
+    margin: 100px 200px 0px 200px;
+    text-align: center;
+}
+.future{
+    text-align: left;
+    padding-left: 100px;
+    margin-top: 50px;
+}
+.subscribe{
+    padding-left: 100px;
+    margin-top: 50px;
+}
